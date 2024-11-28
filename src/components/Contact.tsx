@@ -13,7 +13,7 @@ const Contact = () => {
       icon: <Phone className="h-6 w-6" />,
       label: "Phone",
       value: "+91 7483822484",
-      href: "tel:+911234567890",
+      href: "tel:7483822484",
     },
     {
       icon: <Linkedin className="h-6 w-6" />,
