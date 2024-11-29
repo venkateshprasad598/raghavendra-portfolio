@@ -7,7 +7,7 @@ const Contact = () => {
       icon: <Mail className="h-6 w-6" />,
       label: "Email",
       value: "raghavendra@example.com",
-      href: "mailto:raghavendra@example.com",
+      href: "mailto:raghubawoor0705@gmail.com",
     },
     {
       icon: <Phone className="h-6 w-6" />,
@@ -19,7 +19,7 @@ const Contact = () => {
       icon: <Linkedin className="h-6 w-6" />,
       label: "LinkedIn",
       value: "Connect on LinkedIn",
-      href: "https://linkedin.com/in/raghavendra",
+      href: "https://www.linkedin.com/in/raghavendra-bawoor-800999245",
     },
   ];
 
